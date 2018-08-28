@@ -58,5 +58,18 @@ Please read the overview for all code challenges [here.](http://atdevoutreach.vi
 In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/)
 
 
+## Solution
+Follow the following steps to use my service:
+1. Launch the Africa's Talking [simulator](https://simulator.africastalking.com:1517/).
+2. Register a phone number you want to use with my application.
+3. Select SMS option from the next screen.
+4. Select New Message from the '+' button.
+5. The short code to my service is *1206*. Write anything on the message body and send.
+
+Have fun! :)
+
+
+
+
 
 
